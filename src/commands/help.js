@@ -10,9 +10,9 @@ const CATEGORIES = [
     icon: "🛡️",
     title: "الإدارة والتحكم",
     cmds: [
-      { name: "nm",          icon: "🔒", desc: "قفل اسم الغروب ومنع تغييره" },
-      { name: "nick",        icon: "✍️", desc: "قفل كنيات الأعضاء باستمرار" },
-      { name: "groupimg",    icon: "🖼️", desc: "تغيير وقفل صورة الغروب" },
+      { name: "lockname",          icon: "🔒", desc: "قفل اسم الغروب ومنع تغييره" },
+      { name: "lock",        icon: "✍️", desc: "قفل كنيات الأعضاء باستمرار" },
+      { name: "kara",    icon: "🖼️", desc: "تغيير وقفل صورة الغروب" },
       { name: "groupname",   icon: "📝", desc: "تغيير اسم الغروب" },
       { name: "setavatar",   icon: "📸", desc: "تغيير صورة حساب البوت" },
       { name: "addlock",     icon: "🔐", desc: "قفل عدد أعضاء الغروب تلقائياً" },
