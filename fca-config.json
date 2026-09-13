@@ -16,8 +16,8 @@
   "apiServer": "https://minhdong.site",
   "apiKey": "",
   "credentials": {
-    "email": "kara23@outlook.sa",
-    "password": "kara2000",
+    "email": "",
+    "password": "",
     "twofactor": ""
   },
   "antiGetInfo": {
