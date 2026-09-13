@@ -100,7 +100,7 @@ const CATEGORIES = [
   },
 ];
 
-const CMD_DETAILS = {
+const demons🏴‍☠️ = {
   nm:           { usage: "/nm [اسم] / off / time [min] [max] / status",         role: "🔑 Admin",  cat: "الإدارة" },
   nick:         { usage: "/nick [اسم] / off / status / حدف",                    role: "🔑 Admin",  cat: "الإدارة" },
   groupimg:     { usage: "/groupimg [رابط أو صورة] / off / status",             role: "🔑 Admin",  cat: "الإدارة" },
