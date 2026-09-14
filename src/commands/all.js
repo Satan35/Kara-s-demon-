@@ -10,7 +10,7 @@ module.exports = {
     name: "all",
     aliases: ["tagall", "everyone", "الكل", "تاق"],
     version: "2.0",
-    author: "DJAMEL",
+    author: "kara",
     countDown: 10,
     role: 1,
     category: "management",
