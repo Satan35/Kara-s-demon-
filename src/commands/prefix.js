@@ -14,7 +14,7 @@ module.exports = {
     name: "prefix",
     aliases: ["بادئة", "setprefix"],
     version: "2.0",
-    author: "DJAMEL",
+    author: "kara",
     countDown: 5,
     role: 3,
     category: "management",
@@ -23,7 +23,7 @@ module.exports = {
   },
 
   onStart: async function ({ event, args, message }) {
-    const current = global.GoatBot?.config?.prefix || "/";
+    const current = global.GoatBot?.config?.prefix || ".";
 
     if (!args[0]) {
       return message.reply(
