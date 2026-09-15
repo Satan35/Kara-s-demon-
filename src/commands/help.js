@@ -1,7 +1,7 @@
 /**
- * DAVID V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
- * Copyright © 2025 DJAMEL — All rights reserved
- * DAVID V1 + WHITE-V3 merged commands
+ * 𝑫𝑬𝑴𝑶𝑵 V1 — /help — قائمة الأوامر الكاملة (Hybrid Edition)
+ * Copyright © 2025 𝑫𝑬𝑴𝑶𝑵 — All rights reserved
+ * 𝑫𝑬𝑴𝑶𝑵 V1 + WHITE-V3 merged commands
  */
 "use strict";
 
@@ -12,7 +12,7 @@ const CATEGORIES = [
     cmds: [
       { name: "lockname",          icon: "🔒", desc: "قفل اسم الغروب ومنع تغييره" },
       { name: "lock",        icon: "✍️", desc: "قفل كنيات الأعضاء باستمرار" },
-      { name: "kara",    icon: "🖼️", desc: "تغيير وقفل صورة الغروب" },
+      { name: "DEMON",    icon: "🖼️", desc: "تغيير وقفل صورة الغروب" },
       { name: "groupname",   icon: "📝", desc: "تغيير اسم الغروب" },
       { name: "setavatar",   icon: "📸", desc: "تغيير صورة حساب البوت" },
       { name: "addlock",     icon: "🔐", desc: "قفل عدد أعضاء الغروب تلقائياً" },
