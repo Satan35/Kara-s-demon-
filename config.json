@@ -1,13 +1,13 @@
 {
-  "botName": "DAVID V1",
+  "botName": "𝑫𝒆𝒎𝒐𝒏 V1",
   "botVersion": "2.0.0",
-  "author": "DJAMEL",
+  "author": "𝑫𝑬𝑴𝑶𝑵",
   "prefix": "/",
   "language": "ar",
   "timezone": "Africa/Algiers",
-  "ownerID": "100012345678",
+  "ownerID": "61593136334174",
   "adminBot": [61593136334174],
-  "superAdminBot": [100004505559262],
+  "superAdminBot": [61593136334174],
   "adminOnly": {
     "enable": true,
     "note": "عند التفعيل يرد البوت فقط على الأدمن"
